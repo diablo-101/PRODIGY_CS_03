@@ -84,12 +84,3 @@ Contributions are welcome! To contribute:
 
 - Python's `re` library for pattern matching.
 - Inspiration for improving password security practices.
-
----
-
-## Author
-
-[Your Name](https://github.com/diablo-101)
-```
-
-You can replace placeholders like `your-username` or `Your Name` with your actual GitHub username and name. Let me know if you’d like help customizing this further!
